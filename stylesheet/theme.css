@@ -1,0 +1,9 @@
+/*
+ * General theme stylesheet for text adventure.
+ */
+
+body {	background-image:url('parchment.jpg');
+		background-size:100%;
+		padding-left:10px;
+		padding-right:10px;
+		text-align:justify;}
