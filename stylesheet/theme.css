@@ -1,0 +1,11 @@
+/*
+ * Author: Erik Martin
+ * Description: A simple HTML project
+ * General theme stylesheet for text adventure.
+ */
+
+body {	background-image:url('parchment.jpg');
+		background-size:100%;
+		padding-left:10px;
+		padding-right:15px;
+		text-align:justify;}
