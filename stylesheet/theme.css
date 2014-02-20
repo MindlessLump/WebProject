@@ -8,4 +8,7 @@ body {	background-image:url('parchment.jpg');
 		background-size:100%;
 		padding-left:10px;
 		padding-right:15px;
-		text-align:justify;}
+		text-align:justify;
+		margin-top: 0em;
+		margin-bottom: 10em;
+}
